@@ -2,7 +2,7 @@
 
 > 能产生环形渐变效果的view
 
-![demo.gif](etst.gif)
+![demo.gif](http://images0.cnblogs.com/blog2015/607542/201505/151112010321294.gif)
 
 * 用源码产生带环形渐变色的view
 * 可以配合maskView一起使用
